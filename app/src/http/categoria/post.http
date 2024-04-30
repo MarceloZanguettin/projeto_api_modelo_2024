@@ -1,0 +1,6 @@
+POST https://8080-marcelozang-projetoapim-dostz44tcgr.ws-us110.gitpod.io/categorias
+Content-Type: application/json
+
+{
+    "nome": "teste post"
+}
