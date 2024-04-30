@@ -1,0 +1,7 @@
+POST https://8080-marcelozang-projetoapim-dostz44tcgr.ws-us110.gitpod.io/questoes
+Content-Type: application/json
+
+{
+    "enunciado": "Questão de teste3",
+    "categoria": {"id": 3}
+}

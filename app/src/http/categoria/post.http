@@ -2,5 +2,5 @@ POST https://8080-marcelozang-projetoapim-dostz44tcgr.ws-us110.gitpod.io/categor
 Content-Type: application/json
 
 {
-    "nome": "teste post"
+    "nome": "novo teste"
 }
