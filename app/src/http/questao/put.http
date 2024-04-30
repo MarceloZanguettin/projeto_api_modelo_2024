@@ -1,0 +1,7 @@
+PUT https://8080-marcelozang-projetoapim-dostz44tcgr.ws-us110.gitpod.io/questoes/4
+Content-Type: application/json
+
+{
+    "enunciado": "Teste do put",
+    "categoria": {"id": 3}
+}
